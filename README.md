@@ -36,3 +36,5 @@ Time Complexity Average case: Aradığımız sayının ortada olması, Worst cas
 [2,3,4,5,6,9,8,15,7]
 ```
 [patika adresim](https://app.patika.dev/elifozaydin)
+
+[Patika.dev](https://www.patika.dev/tr)
